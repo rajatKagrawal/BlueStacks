@@ -48,3 +48,18 @@ In the present system we also define something as resource_action or scope
 scope helps the system to figure out both the resource as well as action type the user of role has access to with a single call
 
 
+
+###### _Views:_
+
+There are total 3 views/menus in the system
+
+**Main View**
+
+Welcome to RBAC
+
+Press 1 to login    
+Press 2 to exit
+
+These view is the home screen and the first view of the system with below options:
+1: to login with username and password
+2: to exit from the system
