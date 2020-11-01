@@ -14,7 +14,7 @@ The system can be used to provide role based access to users
 
 `python run.py`
 
-Note: if you ancounter error usch as rbac.rabc module not found run the below command once
+Note: if you encounter error such as rbac.rabc module not found run the below command once
 
 `python -m rbac.rbac`
 
