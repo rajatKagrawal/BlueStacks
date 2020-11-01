@@ -206,7 +206,7 @@ class AdminView(Menu):
         print("press 3 to display users")
         print("press 4 to create role")
         print("press 5 to view roles")
-        print("press 6 to crete resource")
+        print("press 6 to create resource")
         print("press 7 to view resource")
         print("press 8 to add user role")
         print("press 9 to view user role")
