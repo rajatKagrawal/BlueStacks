@@ -43,7 +43,7 @@ To add more Action Type add it to `ActionType` class in _/rbac/resource.py_
 
 In the present system we also define something as resource_action or scope
 
-**resurce_action/ scope** these is a resprentation of resource + action_type mapped to roles, the syntax is : resource_name:action_type example: UserApi:READ, UserApi:WRITE
+**resource_action/ scope** these is a representation of resource + action_type mapped to roles, the syntax is : resource_name:action_type example: UserApi:READ, UserApi:WRITE
 
 scope helps the system to figure out both the resource as well as action type the user of role has access to with a single call
 
